@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "GetStarted.WinUI3.MenuBarApp (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "GetStarted.WinUI3.MenuBarApp (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
